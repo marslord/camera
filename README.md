@@ -1,6 +1,6 @@
 # camera
 
-A Flutter demo based on camera and native_device_orientation.
+A Flutter demo based on camera and native_device_orientation plugins.
 
 ## Getting Started
 
